@@ -1,0 +1,8 @@
+{
+    "connection":{
+        "server"  : "localhost",
+        "userName": "sa",
+        "password": "sa",
+        "options": { "encrypt": true, "database": "TVShows" }
+    }
+}
